@@ -1,0 +1,5 @@
+H=float(input("Please enter the height:"))
+A=float(input("Enter the up speed:"))
+B=float(input("Enter the down speed:"))
+D=H/(A-B)
+print(D)
